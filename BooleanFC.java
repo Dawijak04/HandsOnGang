@@ -2,8 +2,8 @@ package ISE;
 
 public class BooleanFC {
 	public static void main (String[]args) {
-		int x = 15;
-		int y = 12;
+		int x = 11;
+		int y = 2345672;
 		boolean result = (x < y) && (x != y );
 		
 		if (result) {
